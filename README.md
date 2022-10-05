@@ -1,8 +1,35 @@
 # YJU 2WD-A반 6조 미니 프로젝트 :: 회원 관리 시스템  
 
 #### 👋 영진전문대학교 2WD-A반 6조(피드백@Feedback)
+2학기 미니 프로젝트인 **회원 관리 시스템 구현**을 목표로 만들어진 repository입니다.  
+더불어 **Github를 활용한 협업**을 스터디하고 있습니다.
 
-<br>  
+<br>
+
+### 🐥 조원
+<table>
+  <tr> 
+    <td align="center"><a href="https://github.com/WDJJH"><img src="https://avatars.githubusercontent.com/u/103156018?v=4" width="100px;" alt=""/></a>
+    </td>
+    <td align="center"><a href="https://github.com/da-pri"><img src="https://avatars.githubusercontent.com/u/102639884?v=4" width="100px;" alt=""/></a>
+    </td>
+    <td align="center"><a href="https://github.com/jjun9"><img src="https://avatars.githubusercontent.com/u/103375871?v=4" width="100px;" alt=""/></a>
+    </td>
+    <td align="center"><a href="https://github.com/LJH-3410"><img src="https://avatars.githubusercontent.com/u/103081988?v=4" width="100px;" alt=""/></a>
+    </td>
+    <td align="center"><a href="https://github.com/baegjhoon"><img src="https://avatars.githubusercontent.com/u/103083251?v=4" width="100px;" alt=""/></a>
+    </td>
+  </tr>
+ <tr>
+    <th align="center">전종훈</th>
+    <th align="center">유다연</th>
+    <th align="center">장준규</th>
+    <th align="center">이지환</th>
+    <th align="center">백정훈</th>
+ </tr>
+</table>
+
+<br>
 
 ---
 
@@ -24,7 +51,7 @@ Design | UI 디자인 변경 (CSS) :art: | "[Design] 로그인창 UI 수정"
 ---
 
 ## 개인 작업 진행 순서  
-:fire: `main 브랜치`에서 수정하지 않도록 주의, **현재 브랜치를 확인**해주세요! 
+:fire: `main 브랜치`에서 수정하지 않도록 주의, **현재 브랜치를 확인**해주세요!  
 :fire: `develop 브랜치`가 최신이니, `clone 시` `아래 명령어`를 사용해서 clone 하시고 작업하시면 됩니다!!  
 ```
 git clone -b develop https://github.com/WDJJH/homePage.git
