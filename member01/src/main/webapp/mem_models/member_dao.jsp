@@ -98,11 +98,12 @@
 		pstmt.setString(4, user_email);
 		pstmt.setString(5, user_phone);
 		pstmt.setString(6, user_RRN);
-		if (userID.equals("")){
-			out.print("alert('아이디를 입력하세요')");
+		int result = pstmt.executeUpdate();
+		if (result == 1){
+			session.setAttribute("loginState", "logout");
 		}
 		else{
-			session.setAttribute("loginState", "logout");
+			
 		}
 		break;
 		
