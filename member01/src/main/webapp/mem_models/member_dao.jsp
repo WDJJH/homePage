@@ -98,8 +98,8 @@
 		pstmt.setString(4, user_email);
 		pstmt.setString(5, user_phone);
 		pstmt.setString(6, user_RRN);
-		int result = pstmt.executeUpdate();
-		if (result == 1){
+		int results = pstmt.executeUpdate();
+		if (results == 1){
 			session.setAttribute("loginState", "logout");
 		}
 		else{
