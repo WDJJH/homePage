@@ -28,16 +28,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/main/webapp/images/Feedback_logo.png</name>
-			<type>1</type>
-			<location>/Users/baegjeonghoon/Downloads/Feedback_logo.png</location>
-		</link>
-		<link>
-			<name>src/main/webapp/images/Feedback_logo_line.png</name>
-			<type>1</type>
-			<location>/Users/baegjeonghoon/Downloads/Feedback_logo_line.png</location>
-		</link>
-	</linkedResources>
 </projectDescription>
